@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "planclass": "Indonesian Participant Online",
+    "plantitle": "Indonesian Participant Online",
+    "icon": "assets/img/pricing/pricing-table-icon.png",
+    "curency": "Rp",
+    "price": 850.0,
+    "period": "Team",
+    "includes": [
+      "Registration Fee"
+    ],
+    "excludes": [],
+    "btnstyle": "bg-burning-orange"
+  },
+  {
+    "id": 2,
+    "planclass": "International Participant Online",
+    "plantitle": "International Participant Online",
+    "icon": "assets/img/pricing/pricing-table-icon.png",
+    "curency": "$",
+    "price": "50",
+    "period": "Team",
+    "includes": [
+      "Students (Elementary,Secondary,University) (each participant will get only e-certificate)."
+    ],
+    "excludes": [],
+    "btnstyle": "bg-ocean-blue-gradient"
+  },
+  {
+    "id": 3,
+    "planclass": "International Participant Offline",
+    "plantitle": "International Participant Offline",
+    "icon": "assets/img/pricing/pricing-table-icon.png",
+    "curency": "Rp",
+    "price": "2,500 jt",
+    "period": "Team",
+    "includes": [
+      "T-Shirt for 3 people",
+      "Booth / Roll banners, tables and chairs",
+      "Lunch for 3 people x 2 days (at the time of judging)"
+    ],
+    "excludes": [],
+    "btnstyle": "bg-magenta"
+  },
+  {
+    "id": 4,
+    "planclass": "International Participant Offline",
+    "plantitle": "International Participant Offline",
+    "icon": "assets/img/pricing/pricing-table-icon.png",
+    "curency": "$",
+    "price": 300.0,
+    "period": "Team",
+    "includes": [
+      "T-Shirt for 3 people",
+      "Booth / Roll banners, tables and chairs",
+      "Lunch for 3 people x 2 days (at the time of judging)"
+    ],
+    "excludes": [],
+    "btnstyle": "bg-tuna"
+  },
+  {
+    "id": 5,
+    "planclass": "Full Pack International",
+    "plantitle": "Full Pack International",
+    "icon": "assets/img/pricing/pricing-table-icon.png",
+    "curency": "$",
+    "price": 575.0,
+    "period": "Person",
+    "includes": [
+      "Pickup from Airport, Local Transportation, Hotels, Meals, Excursion."
+    ],
+    "excludes": [],
+    "btnstyle": "bg-ocean-blue"
+  }
+]

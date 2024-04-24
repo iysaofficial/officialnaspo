@@ -1,0 +1,169 @@
+<app-header-four></app-header-four>
+<app-breadcrumb></app-breadcrumb>
+<section  class="faq-area bg-magnolia pt-130 pb-130">
+    <div class="container">
+      <div class="section-internal">
+        <div
+          class="
+            section-particle-effect
+            d-none d-md-block
+            section-particle-effect-v2
+          "
+        >
+          <img
+            class="particle-1 animate-zoom-fade"
+            src="assets/img/particle/particle-1.png"
+            alt="particle One"
+          />
+          <img
+            class="particle-2 animate-rotate-me"
+            src="assets/img/particle/particle-2.png"
+            alt="particle Two"
+          />
+          <img
+            class="particle-3 animate-float-bob-x"
+            src="assets/img/particle/particle-3.png"
+            alt="particle Three"
+          />
+          <img
+            class="particle-4 animate-zoominout"
+            src="assets/img/particle/particle-4.png"
+            alt="particle Four"
+          />
+          <img
+            class="particle-5 animate-zoominout"
+            src="assets/img/particle/particle-5.png"
+            alt="particle Five"
+          />
+          <img
+            class="particle-7 animate-float-bob-x"
+            src="assets/img/particle/particle-7.png"
+            alt="particle Seven"
+          />
+        </div>
+        <div id="faq" class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="faq-content content-right-spacer">
+              <div class="section-title section-title-ocean-blue">
+                <h2>After Regist</h2>
+              </div>
+              <div class="section-accordion">
+                <ngb-accordion [closeOthers]="true" activeIds="static-1">
+                  <ngb-panel
+                  id="static-{{ 1 + i }}"
+                  *ngFor="let item of faqs.SetelahMendaftar | slice: 0:7; let i = index"
+                  >
+                  <h1>Setelah Mendaftar</h1>
+  
+                    <ng-template ngbPanelTitle class="text-decoration-none">
+                      {{ item.title }}
+                    </ng-template>
+                    <ng-template ngbPanelContent>
+                      <p>{{ item.text }}</p>
+                      <p>{{ item.bagian2 }}</p>
+                      <p>{{ item.bagian3 }}</p>
+                      <p>{{ item.bagian4 }}</p>
+                    </ng-template>
+                  </ngb-panel>
+                </ngb-accordion>
+                <!-- /.accordion -->
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div
+              class="section-right-image animate-float-bob-y wow fadeInUp"
+              data-wow-delay="0ms"
+              data-wow-duration="2500ms"
+            >
+              <img src="assets/img/faq/faq-image.png" alt="faq image" />
+            </div>
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div
+              class="section-right-image animate-float-bob-y wow fadeInUp"
+              data-wow-delay="0ms"
+              data-wow-duration="2500ms"
+            >
+              <img src="assets/img/faq/faq-image.png" alt="faq image" />
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="faq-content content-right-spacer">
+              <div class="section-title section-title-ocean-blue">
+                <div class="section-heading-tag">
+                  <span class="single-heading-tag"></span>
+                </div>
+                <h2>During the Event</h2>
+              </div>
+              <div class="section-accordion">
+                <ngb-accordion [closeOthers]="true" activeIds="static-1">
+                  <ngb-panel
+                  id="static-{{ 1 + i }}"
+                  *ngFor="let item of faqs.SelamaEventBerlangsung | slice: 0:7; let i = index"
+                  >  
+                    <ng-template ngbPanelTitle class="text-decoration-none">
+                      {{ item.title }}
+                    </ng-template>
+                    <ng-template ngbPanelContent>
+                      <p>{{ item.text }}</p>
+                      <p>{{ item.bagian2 }}</p>
+                      <p>{{ item.bagian3 }}</p>
+                      <p>{{ item.bagian4 }}</p>
+                    </ng-template>
+                  </ngb-panel>
+                </ngb-accordion>
+                <!-- /.accordion -->
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="faq-content content-right-spacer">
+              <div class="section-title section-title-ocean-blue">
+                <div class="section-heading-tag">
+                  <span class="single-heading-tag"></span>
+                </div>
+                <h2>After the Event</h2>
+              </div>
+              <div class="section-accordion">
+                <ngb-accordion [closeOthers]="true" activeIds="static-1">
+                  <ngb-panel
+                  id="static-{{ 1 + i }}"
+                  *ngFor="let item of faqs.SetelahAcara | slice: 0:7; let i = index"
+                  >  
+                    <ng-template ngbPanelTitle class="text-decoration-none">
+                      {{ item.title }}
+                    </ng-template>
+                    <ng-template ngbPanelContent>
+                      <p>{{ item.text }}</p>
+                      <p>{{ item.bagian2 }}</p>
+                      <p>{{ item.bagian3 }}</p>
+                      <p>{{ item.bagian4 }}</p>
+                    </ng-template>
+                  </ngb-panel>
+                </ngb-accordion>
+                <!-- /.accordion -->
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div
+              class="section-right-image animate-float-bob-y wow fadeInUp"
+              data-wow-delay="0ms"
+              data-wow-duration="2500ms"
+            >
+              <img src="assets/img/faq/faq-image.png" alt="faq image" />
+            </div>
+          </div>
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.section-internal -->
+    </div>
+    <!-- /.container -->
+  </section>
+<app-footer-four></app-footer-four>

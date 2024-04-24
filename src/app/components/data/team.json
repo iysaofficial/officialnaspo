@@ -1,0 +1,264 @@
+[
+    {
+      "id": 1,
+      "image": "assets/img/gallery/1.JPG",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "assets/img/gallery/2.JPG",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "assets/img/gallery/3.jpg",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "assets/img/gallery/4.jpeg",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "assets/img/gallery/5.jpg",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "assets/img/gallery/6.jpg",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "assets/img/gallery/7.JPG",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "assets/img/gallery/8.JPG",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "assets/img/gallery/9.JPG",
+      "name": "",
+      "post": "",
+      "shorttext": "",
+      "social": [
+        {
+          "title": "",
+          "icon": "fab fa-facebook-f",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-twitter",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-youtube",
+          "link": "/"
+        },
+        {
+          "title": "",
+          "icon": "fab fa-behance",
+          "link": "/"
+        }
+      ]
+    }
+]
+  

@@ -1,0 +1,48 @@
+{
+  "english": [
+    {
+      "id": 1,
+      "icon": "fal fa-map-marker-alt",
+      "title": "Our Location",
+      "info": ["Jl. Kemang No. 63 RT 03 RW 06, Jawa Barat 16519, Indonesia."],
+      "style": "info-icon-gradient-1"
+    },
+    {
+      "id": 2,
+      "icon": "fal fa-envelope-open-text",
+      "title": "Email Address",
+      "info": ["youngscientist.iysa@gmail.com", "naspoi2aspo.iysa@gmail.com"],
+      "style": "info-icon-gradient-2"
+    },
+    {
+      "id": 3,
+      "icon": "fal fa-phone",
+      "title": "Call Us",
+      "info": ["0817 7091 4129"],
+      "style": "info-icon-gradient-3"
+    }
+  ],
+  "indonesian": [
+    {
+      "id": 1,
+      "icon": "fal fa-map-marker-alt",
+      "title": "Lokasi Kami",
+      "info": ["Jl. Kemang No. 63 RT 03 RW 06, Jawa Barat 16519, Indonesia."],
+      "style": "info-icon-gradient-1"
+    },
+    {
+      "id": 2,
+      "icon": "fal fa-envelope-open-text",
+      "title": "Alamat Email",
+      "info": ["youngscientist.iysa@gmail.com", "naspoi2aspo.iysa@gmail.com"],
+      "style": "info-icon-gradient-2"
+    },
+    {
+      "id": 3,
+      "icon": "fal fa-phone",
+      "title": "Hubungi Kami",
+      "info": ["0817 7091 4129"],
+      "style": "info-icon-gradient-3"
+    }
+  ]
+}

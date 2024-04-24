@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "planclass": "Online",
+    "plantitle": "Online",
+    "icon": "assets/img/pricing/pricing-table-icon.png",
+    "curency": "Rp",
+    "price": 500.0,
+    "period": "Team",
+    "includes": [
+      "Registrasi"
+    ],
+    "excludes": [],
+    "btnstyle": "bg-burning-orange"
+  },
+  {
+    "id": 2,
+    "planclass": "Offline",
+    "plantitle": "Offline",
+    "icon": "assets/img/pricing/pricing-table-icon.png",
+    "curency": "Rp",
+    "price": "2,500 jt",
+    "period": "Team",
+    "includes": [
+      "T-Shirt untuk 3 orang",
+      "Booth/Roll banner, meja dan kursi",
+      "Makan siang untuk 3 orang x 1 hari (pada saat penjurian) dan snack untuk 3 orang x 2 hari."
+    ],
+    "excludes": [],
+    "btnstyle": "bg-ocean-blue-gradient"
+  }
+]

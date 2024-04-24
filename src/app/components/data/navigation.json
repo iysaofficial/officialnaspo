@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "link": "/naspo",
+    "linkText": "Home"
+  },
+  {
+    "id": 2,
+    "linkText": "Daftar pemenang",
+    "child": true,
+    "submenu": [
+      {
+        "id": 2.1,
+        "link": "https://drive.google.com/file/d/1eA7YebN_wfTagG5P0gZB9jrl7CjkNfot/view?usp=drive_link",
+        "linkText": "Daftar pemenang 2020"
+      },
+      {
+        "id": 2.2,
+        "link": "https://drive.google.com/file/d/1E1HEdRUNaQ5KOixCfCCCeiRkQmZJjobx/view?usp=drive_link",
+        "linkText": "Daftar pemenang 2021"
+      },
+      {
+        "id": 2.3,
+        "link": "https://drive.google.com/file/d/16cT0Qixf86IZPAv6qmnKh1Hb51s1x2Fx/view",
+        "linkText": "Daftar pemenang 2022"
+      },
+      {
+        "id": 2.4,
+        "link": "https://drive.google.com/file/d/1hmqfiRHGPcQJwd43jr4iaYx5TIFlpclH/view?usp=sharing",
+        "linkText": "Daftar pemenang 2023"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "linkText": "Sertifikat",
+    "child": true,
+    "submenu": [
+      {
+        "id": 3.3,
+        "link": "https://drive.google.com/drive/folders/14qpJslRH5A6EIZQ0ojovuMdscj7wn9NJ?usp=sharing",
+        "linkText": "Sertifikat Pembimbing"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "linkText": "Kurasi",
+    "child": true,
+    "submenu": [
+      {
+        "id": 3.1,
+        "link": "https://drive.google.com/drive/folders/1bX-Lg2vECgT6SbFQM3WR_6lTfiDaoF-5?usp=sharing",
+        "linkText": "Kurasi 2020 "
+      },
+      {
+        "id": 3.2,
+        "link": "https://drive.google.com/drive/folders/1mDb1yhh813A7xaBqhwMRKRvytBsih0zQ?usp=sharing",
+        "linkText": "Kurasi 2021 "
+      },
+      {
+        "id": 3.3,
+        "link": "https://drive.google.com/drive/folders/16gPiJi-yXJSB2efBbp3_FoageGRH7urT?usp=sharing",
+        "linkText": "Kurasi 2022"
+      },
+      {
+        "id": 3.4,
+        "link": "https://drive.google.com/drive/folders/1VKW5nQYcQSY7HT3O12ymnjUcNNqKdnc-?usp=sharing",
+        "linkText": "Kurasi 2023"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "link": "/gallery",
+    "linkText": "Galeri",
+    "child": true,
+    "submenu": [
+      {
+        "id": 4.1,
+        "link": "https://drive.google.com/drive/folders/1awa1sITOW8HcnSb8VUo5991z7mJ5CIl9?usp=drive_link",
+        "linkText": "Galeri 2020"
+      },
+      {
+        "id": 4.2,
+        "link": "https://drive.google.com/drive/folders/100rDLD2T9EjwCgNDJcC7ldMCfUzym_aN?usp=drive_link",
+        "linkText": "Galeri 2021"
+      },
+      {
+        "id": 4.3,
+        "link": "https://drive.google.com/drive/folders/1qj5nnb0JCV2GxDZUZyWZTaxdtXlVjI-R?usp=drive_link",
+        "linkText": "Galeri 2022"
+      },
+      {
+        "id": 4.4,
+        "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
+        "linkText": "Galeri 2023"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "link": "/contact2",
+    "linkText": "Kontak"
+  },
+  {
+    "id": 6,
+    "link": "/faq1",
+    "linkText": "FAQ"
+  },
+  {
+    "id": 7,
+    "linkText": "Liputan Media",
+    "child": true,
+    "submenu": [
+      {
+        "id": 7.1,
+        "link": "/listnews2",
+        "linkText": "Berita"
+      },
+      {
+        "id": 7.2,
+        "link": "https://drive.google.com/file/d/1so7MicFKw6SHyDym0D8qPBnrfgRMouv9/view?usp=sharing",
+        "linkText": "Press Release 2023"
+      }
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Link Cepat",
+    "items": [
+      {
+        "title": "NASPO",
+        "link": "/naspo"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Buku Panduan",
+    "items": [
+        {
+          "link": "https://drive.google.com/file/d/1QmfxmEzTAIf2Vkzcy3bwzjVzaFTEfi7R/view?usp=sharing",
+          "title": "Buku Panduan NASPO 2024"
+        },
+        {
+          "link": "https://drive.google.com/file/d/1YTGXMK2wh4ViQGTCI9Cs6VyjocV5rJc4/view?usp=sharing",
+          "title": "Buku Panduan I2ASPO 2024"
+        }
+    ]
+  }
+]
