@@ -17,57 +17,38 @@ const routes: Routes = [
       ),
     data: { breadcrumb: 'Homepage' },
   },
-  // {
-  //   path: 'home-v5',
-  //   loadChildren: () =>
-  //     import('./components/pages/home-five/home-five.module').then(
-  //       (m) => m.HomeFiveModule
-  //     ),
-  //   data: { breadcrumb: 'Homepage' },
-  // },
-  // {
-  //   path: 'home-v6',
-  //   loadChildren: () =>
-  //     import('./components/pages/home-six/home-six.module').then(
-  //       (m) => m.HomeSixModule
-  //     ),
-  //   data: { breadcrumb: 'Homepage' },
-  // },
-  // // Services
-  // {
-  //   path: 'services',
-  //   loadChildren: () =>
-  //     import('./components/pages/services/services.module').then(
-  //       (m) => m.ServicesModule
-  //     ),
-  //   data: { breadcrumb: 'Services' },
-  // },
-  // {
-  //   path: 'service-details/:id',
-  //   loadChildren: () =>
-  //     import('./components/pages/service-details/service-details.module').then(
-  //       (m) => m.ServiceDetailsModule
-  //     ),
-  //   data: { breadcrumb: 'Service Details' },
-  // },
-  // Pricing
-  // {
-  //   path: 'pricing',
-  //   loadChildren: () =>
-  //     import('./components/pages/pricing/pricing.module').then(
-  //       (m) => m.PricingModule
-  //     ),
-  //   data: { breadcrumb: 'Pricing' },
-  // },
-  // Pages
-  // {
-  //   path: 'about',
-  //   loadChildren: () =>
-  //     import('./components/pages/about/about.module').then(
-  //       (m) => m.AboutModule
-  //     ),
-  //   data: { breadcrumb: 'About Us' },
-  // },
+  {
+    path: 'lowtahun',
+    loadChildren: () =>
+      import('./components/pages/low/lowtahun.module').then(
+        (m) => m.lowtahunModule
+      ),
+    data: { breadcrumb: 'Daftar Pemenang' },
+  },
+  {
+    path: 'kategori23',
+    loadChildren: () =>
+      import('./components/pages/low/2023/kategori/kategori23.module').then(
+        (m) => m.Kategori23Module
+      ),
+    data: { breadcrumb: 'Daftar Pemenang' },
+  },
+  {
+    path: 'jenjangofl23',
+    loadChildren: () =>
+      import('./components/pages/low/2023/jenjangofl/jenjangofl23.module').then(
+        (m) => m.Jenjangofl23Module
+      ),
+    data: { breadcrumb: 'Daftar Pemenang' },
+  },
+  {
+    path: 'jenjangonl23',
+    loadChildren: () =>
+      import('./components/pages/low/2023/jenjangonl/jenjangonl23.module').then(
+        (m) => m.Jenjangonl23Module
+      ),
+    data: { breadcrumb: 'Daftar Pemenang' },
+  },
   {
     path: 'gallery',
     loadChildren: () =>
