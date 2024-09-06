@@ -27,14 +27,9 @@
     "child": true,
     "submenu": [
       {
-        "id": 3.1,
-        "link": "https://drive.google.com/drive/folders/1bX-Lg2vECgT6SbFQM3WR_6lTfiDaoF-5?usp=sharing",
-        "linkText": "Kurasi 2020 "
-      },
-      {
-        "id": 3.2,
-        "link": "https://drive.google.com/drive/folders/1mDb1yhh813A7xaBqhwMRKRvytBsih0zQ?usp=sharing",
-        "linkText": "Kurasi 2021 "
+        "id": 3.4,
+        "link": "https://drive.google.com/drive/folders/1VKW5nQYcQSY7HT3O12ymnjUcNNqKdnc-?usp=sharing",
+        "linkText": "Kurasi 2023"
       },
       {
         "id": 3.3,
@@ -42,9 +37,14 @@
         "linkText": "Kurasi 2022"
       },
       {
-        "id": 3.4,
-        "link": "https://drive.google.com/drive/folders/1VKW5nQYcQSY7HT3O12ymnjUcNNqKdnc-?usp=sharing",
-        "linkText": "Kurasi 2023"
+        "id": 3.2,
+        "link": "https://drive.google.com/drive/folders/1mDb1yhh813A7xaBqhwMRKRvytBsih0zQ?usp=sharing",
+        "linkText": "Kurasi 2021 "
+      },
+      {
+        "id": 3.1,
+        "link": "https://drive.google.com/drive/folders/1bX-Lg2vECgT6SbFQM3WR_6lTfiDaoF-5?usp=sharing",
+        "linkText": "Kurasi 2020 "
       }
     ]
   },
@@ -55,14 +55,9 @@
     "child": true,
     "submenu": [
       {
-        "id": 4.1,
-        "link": "https://drive.google.com/drive/folders/1awa1sITOW8HcnSb8VUo5991z7mJ5CIl9?usp=drive_link",
-        "linkText": "Galeri 2020"
-      },
-      {
-        "id": 4.2,
-        "link": "https://drive.google.com/drive/folders/100rDLD2T9EjwCgNDJcC7ldMCfUzym_aN?usp=drive_link",
-        "linkText": "Galeri 2021"
+        "id": 4.4,
+        "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
+        "linkText": "Galeri 2023"
       },
       {
         "id": 4.3,
@@ -70,9 +65,14 @@
         "linkText": "Galeri 2022"
       },
       {
-        "id": 4.4,
-        "link": "https://drive.google.com/drive/folders/1dmpVvlo9oW4lT7ocNSw-pCsMm8JMRNcR?usp=sharing",
-        "linkText": "Galeri 2023"
+        "id": 4.2,
+        "link": "https://drive.google.com/drive/folders/100rDLD2T9EjwCgNDJcC7ldMCfUzym_aN?usp=drive_link",
+        "linkText": "Galeri 2021"
+      },
+      {
+        "id": 4.1,
+        "link": "https://drive.google.com/drive/folders/1awa1sITOW8HcnSb8VUo5991z7mJ5CIl9?usp=drive_link",
+        "linkText": "Galeri 2020"
       }
     ]
   },

@@ -4,8 +4,8 @@
     "title": "Link Cepat",
     "items": [
       {
-        "title": "NASPO",
-        "link": "/naspo"
+        "title": "Registration NASPO",
+        "link": "https://registrasi-naspo.vercel.app/"
       }
     ]
   },
