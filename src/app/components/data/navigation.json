@@ -27,7 +27,7 @@
     "child": true,
     "submenu": [
       {
-        "id": 3.4,
+        "id": 3.5,
         "link": "https://drive.google.com/drive/folders/1AAuI8el0ri1dBzZqT0gUh9gy7r7KdLse?usp=sharing",
         "linkText": "Kurasi 2024"
       },
@@ -103,6 +103,11 @@
       },
       {
         "id": 7.2,
+        "link": "https://drive.google.com/file/d/1ixLPdHz9Bq-0virK17Rss9Zu1uxx74Ho/view?usp=sharing",
+        "linkText": "Press Release 2024"
+      },
+      {
+        "id": 7.3,
         "link": "https://drive.google.com/file/d/1so7MicFKw6SHyDym0D8qPBnrfgRMouv9/view?usp=sharing",
         "linkText": "Press Release 2023"
       }
